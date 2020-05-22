@@ -72,8 +72,9 @@
 
     //出错之后的函数
     function  errorFun() {
-      alert("出错了,请检查!");
+      alert("出错了,请检查数据没有传输完成还是接受收数据失败");
     }
+
 
   </script>
 </head>
